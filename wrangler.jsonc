@@ -1,12 +1,9 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "kdb-redirect",
+	"name": "cf-redirect",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-04-10",
 	"observability": {
 		"enabled": true
-	},
-	"vars": {
-		"KDB_URL": "https://make-it-tsukuba.github.io/alternative-tsukuba-kdb/"
 	}
 }
