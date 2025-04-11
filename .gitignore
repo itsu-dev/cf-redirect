@@ -170,3 +170,6 @@ dist
 
 .dev.vars
 .wrangler/
+
+# IntelliJ IDEA project files
+.idea/
